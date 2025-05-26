@@ -5,3 +5,5 @@ Bu mobil uygulama, bileşen tabanlı yapı ve platformlar arası destekle geliş
 
 
 # Ekran Gif
+
+![Ekran Kaydı 2025-05-26 23 44 56](https://github.com/user-attachments/assets/5365ecd9-5903-43d0-beff-c8ac417247bf)
